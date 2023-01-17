@@ -60,7 +60,7 @@ endmodule
 ```
 ## Outputs:
 
-## HALF ADDER :-
+## HALF SUBRACTOR :-
 
 ### Logic Symbol :
 
@@ -81,7 +81,7 @@ endmodule
 ```
 ----------------------------------------------------------------------------------------------------------------------------
 ```
-## FULL ADDER :-
+## FULL SUBRACTOR :-
 
 ### Logic Symbol :
 
